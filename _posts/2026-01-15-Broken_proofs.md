@@ -125,9 +125,10 @@ but fortunately, the Rocq team maintain a [convenient list](https://github.com/r
 of critical bugs. It's scary, and you have to wonder 
 what they did wrong. After all, Lean is based on a similar calculus
 and seems to have a good soundness record.
-Another seriously buggy proof assistant is PVS;
-at least, it was [30 years ago](https://rdcu.be/eYAoi).
+Early versions of the proof assistant PVS were [seriously buggy](https://rdcu.be/eYAoi).[^2]
 PVS has no proof kernel.
+
+[^2]: But that was 30 years ago, and I am informed that PVS has not had any bugs reported since 2012. 
 
 My impression is that the [LCF style systems](https://lawrencecpaulson.github.io/tag/LCF), 
 including the HOL family 
