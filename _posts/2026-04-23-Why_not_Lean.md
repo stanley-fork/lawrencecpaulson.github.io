@@ -117,7 +117,7 @@ It is beautiful, fascinating and theoretically fruitful,
 but it is not the only game out there.
 I have seen "proof assistant" *defined* as a piece of software that checks proofs according to the principle of propositions as types.
 And just like that, most of the research of the past half century is wiped away.
-Nothing would be left except Rocq, Lean and [Agda](https://hackage.haskell.``org/package/Agda) 
+Nothing would be left except Rocq, Lean and [Agda](https://hackage.haskell.org/package/Agda) 
 (which implements Martin-Löf type theory).
 
 Even AUTOMATH is not an instance of propositions as types.

@@ -126,7 +126,7 @@ The power set operator
 takes type $\tau\,\texttt{set}$ to type $(\tau\,\texttt{set})\,\texttt{set}$.
 
 The *image* operator is the set-theoretic version of the "apply to all" operator that's called `map` in programming languages 
-from [Standard ML](https://doi.org/10.1145/3386336) to Perl, except in LISP where it's called [`MAPCAR`](https://www.gnu.org/software/emacs/manual/html_node/elisp/Mapping-Functions.html); 
+from [Standard ML](https://doi.org/10.1145/3386336) to Perl, except in LISP where it's called [`MAPCAR`](https://lisp-docs.github.io/cl-language-reference/chap-14/be-c-dictionary/mapc_mapcar_mapcan_mapl_maplist_mapcon_function); 
 their `MAP` does something weird. 
 In Isabelle/HOL, the image of a set `A` under the function `f` is written ``f ` A`` and please accept my apologies for a syntax influenced by PM.
 But mathematicians write $f(A)$ for the set of all $f(x)$ 
